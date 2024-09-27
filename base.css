@@ -3185,4 +3185,11 @@ div[class="container_fd6364 clickable_fd6364 hasBanner_fd6364 bannerVisible_fd63
     margin: 10px 0px -4px;
 }
 
-.hoverRoll_e07331
+.autocomplete_bcc24e.autocomplete_bea0d0.autocompleteAttached_bea0d0 {
+    background-color: var(--background-primary);
+}
+
+
+.wrapper_adcaac .container_adcaac {
+    background-color: var(--background-secondary-alt);
+}
